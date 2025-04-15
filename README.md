@@ -6,7 +6,7 @@ The paper is available [here](https://www.nature.com/articles/s41524-022-00878-5
 A presentation of the work is available [here on YouTube](https://www.youtube.com/watch?v=5k2BVkfPNVI).
 
 ## Use models without installation
-It may be easier to use these pre-trained models directly with [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) or other libraries that can leverage pre-trained ImageNet encoders. In that case the models can be downloaded from [HuggingFace](https://huggingface.co/jstuckner) using the `encoder.py` example code provided with the model.
+It may be easier to use these pre-trained models directly with [segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) or other libraries that can leverage pre-trained ImageNet encoders. In that case MicroNet pre-trained models can be downloaded from [HuggingFace](https://huggingface.co/jstuckner) using the `encoder.py` example code provided with the model.
 
 ## Installation:
 1. First install [PyTorch](https://pytorch.org/).
