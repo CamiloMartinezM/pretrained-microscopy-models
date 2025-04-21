@@ -3,3 +3,4 @@ from . import util
 from . import losses
 from . import segmentation_training
 from . import io
+from . import config
